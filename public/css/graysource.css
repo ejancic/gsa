@@ -1,0 +1,131 @@
+body {
+    font-family: 'Hammersmith One', serif;
+}
+
+.page-header h1, .page-header span, .navbar {
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.navbar {
+    background-color: #5cbd2a;
+    color:white;
+}
+
+.navbar-default .navbar-nav li a {
+    color:white;
+}
+
+.page-header small {
+    font-style: italic;
+}
+
+.page-header img {
+    height:120px;
+    width:120px;
+    margin-top:20px;
+}
+
+.page-header .headline {
+    width:87%;
+    margin-top:20px;
+    float:right;
+    height:auto;
+
+}
+
+.page-header {
+    overflow:auto;
+}
+
+.right-panel {
+    font-family: "Hammersmith One", sans-serif;
+}
+
+.right-panel h4 {
+}
+
+.right-panel li {
+    text-align:left;
+    font-style:italic;
+}
+
+.navbar-fixed-bottom {
+    text-align: center;
+    color:#848484;
+    font-size:10px;
+}
+
+.testimonials h6 {
+    font-style:italic;
+    font-weight:bold;
+    text-align:right;
+    color: #5cbd2a;
+    margin-bottom:20px;
+}
+
+.testimonials h4 {
+    margin-bottom:20px;
+}
+
+.summary {
+    width:100%;
+    height:496px;
+    overflow:auto;
+    font-family: 'Oxygen', sans-serif;
+    -webkit-box-shadow: 10px 10px 26px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 26px -8px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 26px -8px rgba(0,0,0,0.75);
+
+}
+
+.summary .if-then {
+    font-weight:bold;
+    font-style:italic;
+    font-family: "Hammersmith One", sans-serif;
+    font-size:18px;
+}
+
+.summary .service-headlines, .services-list span {
+    font-style:italic;
+    font-family: "Hammersmith One", sans-serif;
+    font-size:14px;
+}
+
+.col-heading {
+    margin-bottom:8px;
+    margin-top:5px;
+}
+
+.first-col, .second-col, .third-col {
+    display:inline;
+    height:100%;
+}
+
+.first-col, .second-col {
+    border-right: 1px solid lightgray;
+}
+
+.img-rounded {
+    border-radius:6px;
+}
+
+.summary a {
+    background-color:#5cbd2a;
+    border-color:#5cbd2a;
+    margin-left:35%;
+    margin-top:5%;
+    margin-bottom:10%;
+}
+
+.contact-info {
+    height:200px;
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    padding:20px 0 20px 0;
+}
+
+.services-list {
+    font-family: 'Oxygen', sans-serif;
+}
