@@ -143,3 +143,7 @@ body {
 .services-list span, .services-list p, .services-list ul {
     margin-left: 30px;
 }
+
+.press-link {
+    margin-left:30px;
+}
